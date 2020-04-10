@@ -90,5 +90,3 @@ dependencies:
   - zeromq=4.3.1=h0a44026_3
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h1de35cc_3
-prefix: /opt/anaconda3/envs/tcp-plot
-
