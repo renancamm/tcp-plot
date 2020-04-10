@@ -1,3 +1,6 @@
 # tcp-plot
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/renancamm/tcp-plot/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/renancamm/tcp-plot/master?filepath=index.ipynb)
+
+
+Experimental repo to test jupyter interactive plot capabilities
