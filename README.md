@@ -4,3 +4,9 @@
 
 
 Experimental repo to test jupyter interactive plot capabilities
+
+
+
+Copyright © 2020 Renan Cammarosano and Alejandro Ariño Gil
+
+_Licensed under GNU GPLv3_
